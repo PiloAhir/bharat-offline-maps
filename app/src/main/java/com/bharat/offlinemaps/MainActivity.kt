@@ -1,4 +1,3 @@
-
 package com.bharat.offlinemaps
 
 import android.os.Bundle
